@@ -1,6 +1,5 @@
-# Getting Started with Create React App
 
-# React Dashboard Application
+# Basic React Dashboard Application
 
 A simple React dashboard that demonstrates fundamental React concepts such as functional components, props, and state management. This project was built as a learning exercise to showcase how to build and structure a React application.
 
